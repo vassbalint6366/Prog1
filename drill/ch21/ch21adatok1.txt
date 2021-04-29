@@ -1,0 +1,10 @@
+alma 1 1100
+korte 4 1600
+szolo  9 700.50
+barack 6 2111.55
+szilva 22 1350
+cseresznye 99 1250
+meggy 98 1200
+banan 55 1750.123
+eper 2 3500.99
+paradicsom 100 3200.123456
